@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://geodrone-solution.netlify.app/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://geodrone-solution.netlify.app/services/service1.html</loc>
+  </url>
+  <url>
+    <loc>https://geodrone-solution.netlify.app/services/service2.html</loc>
+  </url>
+  <url>
+    <loc>https://geodrone-solution.netlify.app/services/service3.html</loc>
+  </url>
+  <url>
+    <loc>https://geodrone-solution.netlify.app/services/service4.html</loc>
+  </url>
+  <url>
+    <loc>https://geodrone-solution.netlify.app/services/service5.html</loc>
+  </url>
+  <url>
+    <loc>https://geodrone-solution.netlify.app/services/service7.html</loc>
+  </url>
+  <url>
+    <loc>https://geodrone-solution.netlify.app/services/service8.html</loc>
+  </url>
+</urlset>
